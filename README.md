@@ -14,8 +14,8 @@ Abrí `index.html` en Chrome, Edge, Firefox o Safari. Se necesita conexión solo
 6. Cuando finalice la publicación, abrí `https://TU-USUARIO.github.io/shefix-prototipo/`.
 
 ## Qué mostrar en el pitch
-- **Soy Aliada** → Plomería o **Buscar guardia 24 h** → Ver perfil → Solicitar servicio → Enviar solicitud → Seguimiento → Valoración.
-- **Soy Hacedora** → Ver perfil profesional → Activar/desactivar guardia → Aceptar solicitud simulada.
+- **Soy Clienta** → Plomería o **Buscar guardia 24 h** → Ver perfil → Solicitar servicio → Enviar solicitud → Seguimiento → Valoración.
+- **Soy Proveedora de servicios** → Ver perfil profesional → Activar/desactivar guardia → Aceptar solicitud simulada.
 
 ## Archivos
 - `index.html`: estructura.
