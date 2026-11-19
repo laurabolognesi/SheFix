@@ -41,3 +41,7 @@ La primera pantalla muestra «Una app exclusiva para mujeres» y aclara que cone
 
 ## Corrección de actualización en GitHub Pages
 Esta versión usa parámetros de versión en `index.html` para evitar que el navegador reutilice `style.css` y `script.js` antiguos. En la columna lateral aparece «Versión 4» como comprobación. Subí los cuatro archivos en la raíz del repositorio y verificá que Pages publique la rama `main` y la carpeta `/(root)` (o la configuración que corresponda). Si no ves Versión 4, revisá la rama y la ruta de publicación.
+
+## Versión 5 — Mensaje de bienvenida
+
+La primera pantalla incorpora: «Elegí contratar a otra mujer. Porque sentirte segura y abrir oportunidades pueden ir de la mano.». Mantiene el distintivo «Una app exclusiva para mujeres» y las funciones previas. El indicador lateral dice «Versión 5».
