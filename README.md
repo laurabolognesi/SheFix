@@ -35,3 +35,6 @@ Paleta oficial: violeta `#5a3c6d`, lavanda `#ddb2fd`, rosa `#d862a4` y negro cir
 - Tras solicitar un servicio, aparece un **checkout simulado** de estilo app de movilidad: resumen del precio, selección de tarjeta o billetera virtual y confirmación.
 - **No se capturan datos bancarios, no se procesan pagos ni se envían solicitudes reales**. GitHub Pages aloja únicamente esta demostración estática.
 - Para pagos reales en un futuro MVP hará falta un proveedor de pagos, backend seguro y cumplimiento normativo.
+
+## Actualización de portada
+La primera pantalla muestra «Una app exclusiva para mujeres» y aclara que conecta clientas con mujeres proveedoras de servicios.
