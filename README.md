@@ -27,3 +27,11 @@ No introducir datos personales reales en el formulario. La demo no envía ni alm
 
 ## Identidad visual actualizada
 Paleta oficial: violeta `#5a3c6d`, lavanda `#ddb2fd`, rosa `#d862a4` y negro ciruela `#110911`. Se aplicó a botones, fondos, tarjetas, estados y marco de la aplicación.
+
+
+## Actualización: tarifas y checkout
+- Las Clientas pueden ordenar los resultados por **mejor valoración** o **menor tarifa de visita**.
+- Los perfiles muestran importes **ficticios en pesos argentinos**; la tarifa de visita no incluye reparaciones, materiales ni recargos de guardia.
+- Tras solicitar un servicio, aparece un **checkout simulado** de estilo app de movilidad: resumen del precio, selección de tarjeta o billetera virtual y confirmación.
+- **No se capturan datos bancarios, no se procesan pagos ni se envían solicitudes reales**. GitHub Pages aloja únicamente esta demostración estática.
+- Para pagos reales en un futuro MVP hará falta un proveedor de pagos, backend seguro y cumplimiento normativo.
