@@ -38,3 +38,6 @@ Paleta oficial: violeta `#5a3c6d`, lavanda `#ddb2fd`, rosa `#d862a4` y negro cir
 
 ## Actualización de portada
 La primera pantalla muestra «Una app exclusiva para mujeres» y aclara que conecta clientas con mujeres proveedoras de servicios.
+
+## Corrección de actualización en GitHub Pages
+Esta versión usa parámetros de versión en `index.html` para evitar que el navegador reutilice `style.css` y `script.js` antiguos. En la columna lateral aparece «Versión 4» como comprobación. Subí los cuatro archivos en la raíz del repositorio y verificá que Pages publique la rama `main` y la carpeta `/(root)` (o la configuración que corresponda). Si no ves Versión 4, revisá la rama y la ruta de publicación.
